@@ -18,6 +18,18 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
+<h2> Certifications </h2>
+
+- <b>MTA Security
+- <b>Qualys
+  - Vulnerability Management Detection & Response
+  - Cybersecurity Asset Management
+  - Policy Compliance
+  - PCI Compliance
+  - Patch Management
+  - Scanning Strategies & Best Practices
+  - Reporting Strategies & Best Practices
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
